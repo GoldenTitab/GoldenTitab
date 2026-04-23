@@ -25,7 +25,7 @@
 ## ⚡ Tech Universe  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,c,cpp,css,html,wordpress,ps,pp,doc,git,github&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,c,cpp,css,html,wordpress,ps,git,github&perline=7" />
 </div>
 
 <p align="center">
