@@ -83,8 +83,10 @@
 ## 🌐 Let's Connect  
 
 <p align="center">
-  <a href="https://t.me/[Golden_Titab]" target="_blank"><img src="https://skillicons.dev/icons?i=telegram" width="40"/></a>
-  <a href="https://instagram.com/[GoldenTitab.exe]" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
+  <a href="https://t.me/Golden_Titab" target="_blank"><img src="https://skillicons.dev/icons?i=telegram" width="40"/></a>
+  <a href="https://instagram.com/GoldenTitab.exe" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
+  <a href="https://x.com/GoldenTitabExe" target="_blank"><img src="https://skillicons.dev/icons?i=X" width="40"/></a>
+
 </p>
 
 ---
