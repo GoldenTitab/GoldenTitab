@@ -29,7 +29,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[YourGithubUsername]&theme=algolia&no-frame=true&no-bg=true&margin-w=10" width="90%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GoldenTitab&theme=algolia&no-frame=true&no-bg=true&margin-w=10" width="90%" />
 </p>
 
 ---
@@ -37,7 +37,7 @@
 ## 🔥 Animated Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[GoldenTitab]&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GoldenTitab&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&count_private=true" width="48%"/>
   <img src="https://streak-stats.demolab.com?user=GoldenTitab&theme=tokyonight&hide_border=true&border_radius=20" width="48%"/>
 </div>
 
