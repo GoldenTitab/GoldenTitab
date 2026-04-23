@@ -38,7 +38,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=[GoldenTitab]&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&count_private=true" width="48%"/>
-
+  <img src="https://streak-stats.demolab.com?user=GoldenTitab&theme=tokyonight&hide_border=true&border_radius=20" width="48%"/>
+</div>
 
 <br/>
 
