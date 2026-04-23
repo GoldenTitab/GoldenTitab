@@ -1,5 +1,3 @@
-
-<!-- 🌈 Animated Hero Section -->
 <div align="center">
   <img src="https://github.com/yourusername/yourusername/blob/main/assets/wave-header.gif" width="100%" alt="animated header" />
 </div>
@@ -17,7 +15,7 @@
 ## 🧩 About Me  
 
 💡 Passionate about **web animation & micro-interactions**  
-🌍 Based in **[Your City, Country]**  
+🌍 Based in **[Kerman, Iran]**  
 🎨 Turning design systems into real-world experiences  
 🧠 Currently exploring **Next.js 14**, **Three.js**, and **TypeScript**  
 ☕ Fun Fact: I debug better after my third cup of coffee
