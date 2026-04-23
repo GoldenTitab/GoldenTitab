@@ -28,9 +28,7 @@
   <img src="https://skillicons.dev/icons?i=python,java,js,c,cpp,css,html,wordpress,ps,git,github&perline=7" />
 </div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GoldenTitab&theme=algolia&no-frame=true&no-bg=true&margin-w=10" width="90%" />
-</p>
+
 
 ---
 
