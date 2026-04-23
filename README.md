@@ -51,8 +51,8 @@
 *(I love making pixels move!)*  
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/motion-cube.gif" width="120" alt="rotating cube gif"/>
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/sparkle.gif" width="100" alt="sparkle animation"/>
+  <img src="https://raw.githubusercontent.com/GoldenTitab/GoldenTitab/main/assets/motion-cube.gif" width="120" alt="rotating cube gif"/>
+  <img src="https://raw.githubusercontent.com/GoldenTitab/GoldenTitab/main/assets/sparkle.gif" width="100" alt="sparkle animation"/>
 </div>
 
 ---
