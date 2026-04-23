@@ -42,7 +42,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[YourGithubUsername]&theme=react-dark&area=true&hide_border=true" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GoldenTitab&theme=react-dark&area=true&hide_border=true" width="90%" />
 </p>
 
 ---
