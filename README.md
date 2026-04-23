@@ -59,18 +59,17 @@
 
 ## 🛠️ Current Focus  
 
-🧠 Mastering complex animation chains with Framer Motion  
-💾 Writing fast, scalable React components  
+🧠 Learning How to Build a Website With Wordpress CMS  
+💾 Learning Figma  
 🎨 Learning advanced CSS art & motion design  
-🧩 Experimenting with 3D visual storytelling using Three.js  
 
 ---
 
 ## 🌿 Life + Code Rhythm  
 
-> “Don’t just code it — choreograph it.” 💫  
-> Code that moves is code that breathes.  
-
+> “Don’t just code it — choreograph it.” 
+> "Code that moves is code that breathes."  
+> "The Guy Who Codes in FRONT of You..."
 ---
 
 ## 🎧 Mood Board  
@@ -84,15 +83,13 @@
 ## 🌐 Let's Connect  
 
 <p align="center">
-  <a href="https://linkedin.com/in/[YourLinkedin]" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
-  <a href="https://t.me/[YourTelegram]" target="_blank"><img src="https://skillicons.dev/icons?i=telegram" width="40"/></a>
-  <a href="https://instagram.com/[YourInstagram]" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
-  <a href="mailto:[YourEmail]" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
+  <a href="https://t.me/[Golden_Titab]" target="_blank"><img src="https://skillicons.dev/icons?i=telegram" width="40"/></a>
+  <a href="https://instagram.com/[GoldenTitab.exe]" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/main/assets/footer-wave.gif" width="100%" alt="animated footer" />
+  <img src="https://github.com/GoldenTitab/GoldenTitab/blob/main/assets/footer-wave.gif" width="100%" alt="animated footer" />
   <h3>⭐ Thanks for dropping by — this space keeps evolving 🚀</h3>
 </div>
