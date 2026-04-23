@@ -37,8 +37,8 @@
 ## 🔥 Animated Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[[YourGithubUsername](https://github.com/GoldenTitab)]&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&count_private=true" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=[YourGithubUsername]&theme=tokyonight&hide_border=true&border_radius=20" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=[https://github.com/GoldenTitab]&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&count_private=true" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=[https://github.com/GoldenTitab]&theme=tokyonight&hide_border=true&border_radius=20" width="48%"/>
 </div>
 
 <br/>
