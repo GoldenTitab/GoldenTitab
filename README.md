@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=4000&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Hey,+I'm+[Your+Name]!;Front-End+Developer;React+Architect;Coffee+%2B+Code+☕" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=4000&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Hey,+I'm+[Golden Titab]!;Front-End+Developer;React+Architect;Coffee+%2B+Code+☕" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ## 🧩 About Me  
 
-💡 Passionate about **web animation & micro-interactions**  
+💡 Passionate about **web design & micro-interactions**  
 🌍 Based in **[Kerman, Iran]**  
 🎨 Turning design systems into real-world experiences  
 🧠 Currently exploring **JavaScript**, **WordPress**, and **TypeScript**  
@@ -37,7 +37,7 @@
 ## 🔥 Animated Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourGithubUsername]&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=[[YourGithubUsername](https://github.com/GoldenTitab)]&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&count_private=true" width="48%"/>
   <img src="https://streak-stats.demolab.com?user=[YourGithubUsername]&theme=tokyonight&hide_border=true&border_radius=20" width="48%"/>
 </div>
 
