@@ -17,7 +17,7 @@
 💡 Passionate about **web animation & micro-interactions**  
 🌍 Based in **[Kerman, Iran]**  
 🎨 Turning design systems into real-world experiences  
-🧠 Currently exploring **Next.js 14**, **Three.js**, and **TypeScript**  
+🧠 Currently exploring **JavaScript**, **WordPress**, and **TypeScript**  
 ☕ Fun Fact: I debug better after my third cup of coffee
 
 ---
@@ -25,7 +25,7 @@
 ## ⚡ Tech Universe  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,framer,threejs,html,css,vite,git,github,figma,vercel&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,c,cpp,css,html,wordpress,ps,pp,doc,git,github&perline=7" />
 </div>
 
 <p align="center">
