@@ -1,97 +1,161 @@
 <div align="center">
-  <img src="https://github.com/GoldenTitab/GoldenTitab/blob/main/assets/wave-header.gif" width="100%" alt="animated header" />
+  <img src="https://github.com/GoldenTitab/GoldenTitab/blob/main/assets/wave-header.gif" width="100%" alt="header"/>
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=4000&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Hey,+I'm+Golden+Titab!;Junior+Front-End+Developer;Word-Press+Designer;Comic+Translator+and+Editor;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Hey,+I'm+Ali+D.+Shah!;Computer+Engineering+Student;UI%2FUX+Designer+in+Progress;Building+Digital+Experiences;Always+Learning+Something+New" />
 </h1>
 
 <p align="center">
-  <em>Crafting minimal, meaningful, and animated web experiences ⚡</em>
+  <em>Designing interfaces, learning technologies, and turning ideas into experiences ✨</em>
 </p>
 
 ---
 
-## 🧩 About Me  
+## 🚀 About Me
 
-💡 Passionate about **web design & micro-interactions**  
-🌍 Based in **[Kerman, Iran]**  
-🎨 Turning design systems into real-world experiences  
-🧠 Currently exploring **JavaScript**, **WordPress**, and **TypeScript**  
-☕ Fun Fact: I debug better after my third cup of coffee
+🎓 Computer Engineering Student
+
+🎨 Passionate about UI/UX Design and Product Thinking
+
+💻 Learning Front-End Development one project at a time
+
+📍 Based in Kerman, Iran
+
+🌱 Currently learning JavaScript, WordPress, and Product Design
+
+🧩 Interested in user-centered design, clean interfaces, and digital products
+
+🌍 Language Journey
+
+* 🇮🇷 Persian (Native)
+* 🇺🇸 English (Improving Communication & Speaking Skills)
 
 ---
 
-## ⚡ Tech Universe  
+## 🎯 Current Mission
+
+```text
+Design Better
+↓
+Build Better
+↓
+Think Like a Product Designer
+```
+
+My goal is to grow from a UI/UX enthusiast into a professional Product Designer capable of creating meaningful digital experiences.
+
+---
+
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,c,cpp,css,html,wordpress,ps,git,github&perline=7" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,wordpress,figma,git,github,python,java,c,cpp,ps&perline=6"/>
+
 </div>
 
+---
 
+## 📚 Learning Roadmap
+
+✅ HTML
+
+✅ CSS
+
+🟨 JavaScript Fundamentals
+
+🟨 WordPress Development
+
+🟨 Advanced Figma & UI Design
+
+⬜ TypeScript
+
+⬜ Flutter
+
+⬜ Product Design
+
+⬜ Design Systems
 
 ---
 
-## 🔥 Animated Stats  
+## 🚧 Featured Projects
+
+Currently building and refining personal projects before publishing them publicly.
+
+Planned portfolio highlights:
+
+🚗 Car Marketplace Landing Page
+
+₿ Cryptocurrency Landing Page
+
+👨‍💻 Personal Portfolio Website
+
+🎨 UI/UX Case Studies
+
+More projects coming soon...
+
+---
+
+## 🔥 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GoldenTitab&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GoldenTitab&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" width="48%"/>
   <img src="https://streak-stats.demolab.com?user=GoldenTitab&theme=tokyonight&hide_border=true&border_radius=20" width="48%"/>
 </div>
 
-<br/>
+<br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GoldenTitab&theme=react-dark&area=true&hide_border=true" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GoldenTitab&theme=react-dark&area=true&hide_border=true" width="95%">
 </p>
 
 ---
 
-## 🌈 Motion Playground  
-*(I love making pixels move!)*  
+## 🎨 Design Philosophy
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/GoldenTitab/GoldenTitab/main/assets/motion-cube.gif" width="120" alt="rotating cube gif"/>
-  <img src="https://raw.githubusercontent.com/GoldenTitab/GoldenTitab/main/assets/sparkle.gif" width="100" alt="sparkle animation"/>
-</div>
+> Good design is not decoration.
+>
+> Good design helps people achieve their goals with less friction.
 
 ---
 
-## 🛠️ Current Focus  
+## 🌱 2026 Goals
 
-🧠 Learning How to Build a Website With Wordpress CMS  
-💾 Learning Figma  
-🎨 Learning advanced CSS art & motion design  
-
----
-
-## 🌿 Life + Code Rhythm  
-
-> “Don’t just code it — choreograph it.” 
-> "Code that moves is code that breathes."  
-> "The Guy Who Codes in FRONT of You..."
----
-
-## 🎧 Mood Board  
-
-🎵 Playlist for coding: *lo-fi energy + deep concentration beats*  
-🎬 Inspiration: *Interactive portfolios, motion UI design*  
-🪄 Motto: *pixels & purpose.*  
+* Build and publish real-world projects
+* Strengthen JavaScript skills
+* Master Figma workflows
+* Create UI/UX case studies
+* Develop a professional portfolio
+* Contribute to open-source projects
+* Improve English communication skills
 
 ---
 
-## 🌐 Let's Connect  
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://t.me/Golden_Titab" target="_blank"><img src="https://skillicons.dev/icons?i=telegram" width="40"/></a>
-  <a href="https://instagram.com/GoldenTitab.exe" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
-  <a href="https://x.com/GoldenTitabExe" target="_blank"><img src="https://skillicons.dev/icons?i=X" width="40"/></a>
+
+<a href="https://t.me/Golden_Titab">
+  <img src="https://skillicons.dev/icons?i=telegram" width="45"/>
+</a>
+
+<a href="https://instagram.com/GoldenTitab.exe">
+  <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
+</a>
+
+<a href="https://x.com/GoldenTitabExe">
+  <img src="https://skillicons.dev/icons?i=twitter" width="45"/>
+</a>
 
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://github.com/GoldenTitab/GoldenTitab/blob/main/assets/footer-wave.gif" width="100%" alt="animated footer" />
-  <h3>⭐ Thanks for dropping by — this space keeps evolving 🚀</h3>
+
+### ✨ Building Today, Improving Tomorrow
+
+<img src="https://github.com/GoldenTitab/GoldenTitab/blob/main/assets/footer-wave.gif" width="100%" />
+
 </div>
