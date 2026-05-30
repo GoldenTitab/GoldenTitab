@@ -1,53 +1,123 @@
 <div align="center">
-  <img src="https://github.com/GoldenTitab/GoldenTitab/blob/main/assets/wave-header.gif" width="100%" alt="header"/>
-</div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Hey,+I'm+Ali+D.+Shah!;Computer+Engineering+Student;UI%2FUX+Designer+in+Progress;Building+Digital+Experiences;Always+Learning+Something+New" />
-</h1>
+<img src="https://github.com/GoldenTitab/GoldenTitab/blob/main/assets/wave-header.gif" width="100%" />
+
+# ⚡ Ali D. Shah
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Computer+Engineering+Student;UI%2FUX+Designer+in+Progress;Building+Digital+Experiences;Learning+Product+Design;Front-End+Learner;Always+Improving" />
 
 <p align="center">
-  <em>Designing interfaces, learning technologies, and turning ideas into experiences ✨</em>
+  <img src="https://komarev.com/ghpvc/?username=GoldenTitab&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
 </p>
 
----
+<p align="center">
+  <a href="https://t.me/Golden_Titab">
+    <img src="https://img.shields.io/badge/Telegram-0ea5e9?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+  <a href="https://instagram.com/GoldenTitab.exe">
+    <img src="https://img.shields.io/badge/Instagram-0284c7?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://x.com/GoldenTitabExe">
+    <img src="https://img.shields.io/badge/X-0369a1?style=for-the-badge&logo=x&logoColor=white">
+  </a>
+</p>
 
-## 🚀 About Me
-
-🎓 Computer Engineering Student
-
-🎨 Passionate about UI/UX Design and Product Thinking
-
-💻 Learning Front-End Development one project at a time
-
-📍 Based in Kerman, Iran
-
-🌱 Currently learning JavaScript, WordPress, and Product Design
-
-🧩 Interested in user-centered design, clean interfaces, and digital products
-
-🌍 Language Journey
-
-* 🇮🇷 Persian (Native)
-* 🇺🇸 English (Improving Communication & Speaking Skills)
+</div>
 
 ---
 
-## 🎯 Current Mission
+# 🌊 Digital Identity
 
-```text
-Design Better
-↓
-Build Better
-↓
-Think Like a Product Designer
+```yaml
+Name: Ali D. Shah
+
+Location: Kerman, Iran
+
+Education:
+  Computer Engineering Student
+
+Focus:
+  UI/UX Design
+  Product Design
+  Front-End Development
+
+Languages:
+  Persian (Native)
+  English (Improving Daily)
+
+Current Goal:
+  Become a Product Designer
+  and build meaningful digital experiences
 ```
 
-My goal is to grow from a UI/UX enthusiast into a professional Product Designer capable of creating meaningful digital experiences.
+---
+
+# 🚀 About Me
+
+I'm a Computer Engineering student passionate about creating digital experiences that are simple, intuitive, and visually engaging.
+
+My journey started with web development and gradually expanded into UI/UX Design, Product Thinking, and User-Centered Design.
+
+I enjoy exploring how technology and design work together to solve real problems.
+
+Currently I'm focusing on:
+
+* WordPress
+* UI Design
+* UX Research
+* Wordpress CMS
+* Product Thinking
+* Design Systems
+
 
 ---
 
-## 🛠️ Tech Stack & Tools
+# 🎯 Current Dashboard
+
+## 📚 Currently Learning
+
+* JavaScript Fundamentals
+* Advanced Figma Workflows
+* WordPress Development
+* UX Principles
+* Product Design
+
+## 🛠 Currently Building
+
+* Car Marketplace Landing Page
+* Crypto Landing Page
+* Personal Portfolio Website
+* UI Case Studies
+
+## 🎬 Currently Watching
+
+* One Piece
+* Spider Noir
+
+## 🎵 Current Vibes
+
+* Meaningful Lyrics
+* Storytelling Songs
+* English Learning Through Music
+
+---
+
+# 📈 Growth Tracker
+
+```text
+HTML         ██████████ 100%
+CSS          ████████░░ 80%
+JavaScript   ███░░░░░░░ 30%
+WordPress    ████████░░ 85%
+Figma        █████████░ 90%
+English      ███████░░░ 70%
+Flutter      ██░░░░░░░░ 20%
+Dart         ██░░░░░░░░ 20%
+```
+
+---
+
+# 🛠 Tech Arsenal
 
 <div align="center">
 
@@ -57,104 +127,260 @@ My goal is to grow from a UI/UX enthusiast into a professional Product Designer 
 
 ---
 
-## 📚 Learning Roadmap
+# 🎨 Design Toolkit
 
-✅ HTML
+### UI / UX
 
-✅ CSS
+* Figma
+* Wireframing
+* Prototyping
+* User Flows
+* Design Thinking
+* UX Research Basics
 
-🟨 JavaScript Fundamentals
+### Front-End
 
-🟨 WordPress Development
+* HTML
+* CSS
+* JavaScript
+* Wordpress
+* Responsive Design
 
-🟨 Advanced Figma & UI Design
+### Development
 
-⬜ TypeScript
-
-⬜ Flutter
-
-⬜ Product Design
-
-⬜ Design Systems
-
----
-
-## 🚧 Featured Projects
-
-Currently building and refining personal projects before publishing them publicly.
-
-Planned portfolio highlights:
-
-🚗 Car Marketplace Landing Page
-
-₿ Cryptocurrency Landing Page
-
-👨‍💻 Personal Portfolio Website
-
-🎨 UI/UX Case Studies
-
-More projects coming soon...
+* Git
+* GitHub
+* C
+* C++
+* Java
+* Python
 
 ---
 
-## 🔥 GitHub Stats
+# 🚧 Featured Projects
+
+## 🚗 Car Marketplace Landing Page
+
+Modern responsive landing page for a vehicle marketplace platform.
+
+### Features
+
+* Responsive Layout
+* Modern UI
+* CTA Sections
+* Pricing Components
+
+---
+
+## ₿ Crypto Landing Page
+
+Landing page concept for a cryptocurrency platform.
+
+### Features
+
+* Hero Section
+* Statistics Components
+* Modern Dashboard UI
+* Responsive Design
+
+---
+
+## 👨‍💻 Personal Portfolio
+
+A portfolio website focused on clean design and user experience.
+
+### Features
+
+* Responsive Design
+* Project Showcase
+* About Section
+* Contact Page
+
+---
+
+## 🎨 UI/UX Case Studies
+
+Future collection of:
+
+* Redesign Concepts
+* UX Audits
+* Product Analysis
+* Design Challenges
+
+---
+
+# 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GoldenTitab&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=GoldenTitab&theme=tokyonight&hide_border=true&border_radius=20" width="48%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=GoldenTitab&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Stats
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=GoldenTitab&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://streak-stats.demolab.com?user=GoldenTitab&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GoldenTitab&theme=react-dark&area=true&hide_border=true" width="95%">
-</p>
+<div align="center">
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoldenTitab&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-## 🎨 Design Philosophy
+# 📊 Activity Graph
 
-> Good design is not decoration.
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GoldenTitab&theme=react-dark&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/GoldenTitab/GoldenTitab/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+# 🎬 Beyond Coding
+
+## Favorite Movie
+
+Scott Pilgrim vs. The World
+
+## Favorite Series
+
+* One Piece
+* The Office
+
+## Favorite Activities
+
+* UI Exploration
+* Watching Movies
+* Listening to Music
+* Learning New Skills
+* Building Side Projects
+
+---
+
+# 💎 Fun Facts
+
+* 🎓 Computer Engineering Student
+* 🇮🇷 Based in Iran
+* 🎨 Passionate About Design
+* 🌍 Improving English Daily
+* 💻 Building Front-End Skills
+* 🚀 Future Product Designer
+* ☕ Coffee Helps Sometimes
+
+---
+
+# 🎨 Design Philosophy
+
+> Good interfaces are invisible.
+
+> The best products guide people naturally.
+
+> Simplicity is not the absence of features.
 >
-> Good design helps people achieve their goals with less friction.
+> It is the presence of clarity.
 
 ---
 
-## 🌱 2026 Goals
+# 🧠 Learning Journey
 
-* Build and publish real-world projects
-* Strengthen JavaScript skills
-* Master Figma workflows
-* Create UI/UX case studies
-* Develop a professional portfolio
-* Contribute to open-source projects
-* Improve English communication skills
+### 2025
+
+* HTML
+* CSS
+* Design Fundamentals
+
+### 2026
+
+* JavaScript
+* WordPress
+* UI/UX Design
+
+### Next
+
+* Product Design
+* TypeScript
+* Flutter
+
+### Long Term
+
+* Professional Product Designer
+* Digital Product Creator
 
 ---
 
-## 🌐 Connect With Me
+# 🎯 Mission Board
 
-<p align="center">
+## Short Term
+
+* [ ] Publish Portfolio
+* [ ] Master JavaScript Basics
+* [ ] Create UI Case Studies
+* [ ] Improve English Speaking
+
+## Mid Term
+
+* [ ] Build Real Projects
+* [ ] Learn Product Design
+* [ ] Create Personal Brand
+
+## Long Term
+
+* [ ] Work On Meaningful Products
+* [ ] Become A Product Designer
+* [ ] Launch Freelance Career
+
+---
+
+# 🌐 Connect Hub
+
+<div align="center">
 
 <a href="https://t.me/Golden_Titab">
-  <img src="https://skillicons.dev/icons?i=telegram" width="45"/>
+<img src="https://skillicons.dev/icons?i=telegram" width="50"/>
 </a>
 
 <a href="https://instagram.com/GoldenTitab.exe">
-  <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
+<img src="https://skillicons.dev/icons?i=instagram" width="50"/>
 </a>
 
 <a href="https://x.com/GoldenTitabExe">
-  <img src="https://skillicons.dev/icons?i=twitter" width="45"/>
+<img src="https://skillicons.dev/icons?i=twitter" width="50"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### ✨ Building Today, Improving Tomorrow
+## ✨ Building Today, Improving Tomorrow
+
+### Every great product starts with a simple idea.
+
+### See you in the next commit 🚀
 
 <img src="https://github.com/GoldenTitab/GoldenTitab/blob/main/assets/footer-wave.gif" width="100%" />
 
