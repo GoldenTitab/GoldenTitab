@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100%" />
+<img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/wave/wave.gif" width="100%" />
 
 # ⚡ Ali D. Shah
 
