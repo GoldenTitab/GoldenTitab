@@ -121,7 +121,7 @@ Dart         ███████░░░ 20%
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,wordpress,figma,git,github,python,java,c,cpp,ps&perline=6"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,wordpress,figma,git,github,python,java,c,dart,flutter&perline=6"/>
 
 </div>
 
