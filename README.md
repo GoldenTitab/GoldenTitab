@@ -104,7 +104,8 @@ English      ███████░░░ 70%
 Flutter      ███░░░░░░░ 20%
 Dart         ███████░░░ 20%
 ```
-
+ <img src="https://geps.dev/progress/100?dangerColor=0369a1&warningColor=0ea5e9&successColor=00BFFF"/>
+</p>
 ---
 
 # 🛠 Tech Arsenal
