@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
+<img src="https://camo.githubusercontent.com/de56ff7b6622083a4860eb61a023fdf49fecb157c1f17723898cf47b5eea4a99/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f706972617465706172726f742e676966" width="100%" />
 
 # ⚡ Ali D. Shah
 
