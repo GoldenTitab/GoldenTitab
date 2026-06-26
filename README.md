@@ -92,25 +92,18 @@ Currently I'm focusing on:
 
 ---
 
-# 📈 Growth Tracker
+# 📈 Skill Progress
 
-```text
-HTML          <img src="https://geps.dev/progress/100?dangerColor=0369a1&warningColor=0ea5e9&successColor=00BFFF"/>
-</p>
-CSS          <img src="https://geps.dev/progress/60?dangerColor=0369a1&warningColor=0ea5e9&successColor=00BFFF"/>
-</p>
-JavaScript   <img src="https://geps.dev/progress/30?dangerColor=0369a1&warningColor=0ea5e9&successColor=00BFFF"/>
-</p>
-WordPress     <img src="https://geps.dev/progress/70?dangerColor=0369a1&warningColor=0ea5e9&successColor=00BFFF"/>
-</p>
-Figma         <img src="https://geps.dev/progress/90?dangerColor=0369a1&warningColor=0ea5e9&successColor=00BFFF"/>
-</p>
-Flutter       <img src="https://geps.dev/progress/40?dangerColor=0369a1&warningColor=0ea5e9&successColor=00BFFF"/>
-</p>
-Dart          <img src="https://geps.dev/progress/100?dangerColor=0369a1&warningColor=0ea5e9&successColor=00BFFF"/>
-</p>
-English       <img src="https://geps.dev/progress/80?dangerColor=0369a1&warningColor=0ea5e9&successColor=00BFFF"/>
-</p>
+| Skill      | Progress                                                                                                                         |
+|------------|----------------------------------------------------------------------------------------------------------------------------------|
+| HTML       | ![100%](https://geps.dev/progress/100?dangerColor=0369a1&warningColor=0ea5e9&successColor=00BFFF)                                |
+| CSS        | ![60%](https://geps.dev/progress/60?dangerColor=0369a1&warningColor=0ea5e9&successColor=00BFFF)                                  |
+| JavaScript | ![30%](https://geps.dev/progress/30?dangerColor=0369a1&warningColor=0ea5e9&successColor=00BFFF)                                  |
+| WordPress  | ![70%](https://geps.dev/progress/70?dangerColor=0369a1&warningColor=0ea5e9&successColor=00BFFF)                                  |
+| Figma      | ![90%](https://geps.dev/progress/90?dangerColor=0369a1&warningColor=0ea5e9&successColor=00BFFF)                                  |
+| Flutter    | ![40%](https://geps.dev/progress/40?dangerColor=0369a1&warningColor=0ea5e9&successColor=00BFFF)                                  |
+| Dart       | ![100%](https://geps.dev/progress/100?dangerColor=0369a1&warningColor=0ea5e9&successColor=00BFFF)                                |
+| English    | ![80%](https://geps.dev/progress/80?dangerColor=0369a1&warningColor=0ea5e9&successColor=00BFFF)                                  |
 ```
 
 ---
