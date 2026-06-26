@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/d33a2619953c93a3ac8dbc89b7316997c265ef4d42e552adcf73bd62be49b1d5/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f666c6167732f68642f6972616e706172726f742e676966" width="25%/>
+  <img src="https://camo.githubusercontent.com/26958772a177631f2ba759431279f2ccb173c29f93f358adcb1d44059d193673/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" width="25%/>
 </p>
 
 
@@ -384,6 +384,6 @@ Scott Pilgrim vs. The World
 
 ### See you in the next commit 🚀
 
-<img src="https://github.com/GoldenTitab/GoldenTitab/blob/main/assets/footer-wave.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
 </div>
