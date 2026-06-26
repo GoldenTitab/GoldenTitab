@@ -90,7 +90,6 @@ Currently I'm focusing on:
 * Storytelling Songs
 * English Learning Through Music
 
----
 
 # 📈 Skill Progress
 
@@ -104,7 +103,7 @@ Currently I'm focusing on:
 | Flutter    | ![40%](https://geps.dev/progress/40?dangerColor=0369a1&warningColor=0ea5e9&successColor=00BFFF)                                  |
 | Dart       | ![100%](https://geps.dev/progress/100?dangerColor=0369a1&warningColor=0ea5e9&successColor=00BFFF)                                |
 | English    | ![80%](https://geps.dev/progress/80?dangerColor=0369a1&warningColor=0ea5e9&successColor=00BFFF)                                  |
-```
+
 
 ---
 
