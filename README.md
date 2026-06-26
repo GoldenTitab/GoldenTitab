@@ -95,17 +95,24 @@ Currently I'm focusing on:
 # 📈 Growth Tracker
 
 ```text
-HTML         ██████████ 100%
-CSS          ████████░░ 80%
-JavaScript   ███░░░░░░░ 30%
-WordPress    ████████░░ 85%
-Figma        █████████░ 90%
-English      ███████░░░ 70%
-Flutter      ███░░░░░░░ 20%
-Dart         ███████░░░ 20%
-```
- <img src="https://geps.dev/progress/100?dangerColor=0369a1&warningColor=0ea5e9&successColor=00BFFF"/>
+HTML          <img src="https://geps.dev/progress/100?dangerColor=0369a1&warningColor=0ea5e9&successColor=00BFFF"/>
 </p>
+CSS          <img src="https://geps.dev/progress/60?dangerColor=0369a1&warningColor=0ea5e9&successColor=00BFFF"/>
+</p>
+JavaScript   <img src="https://geps.dev/progress/30?dangerColor=0369a1&warningColor=0ea5e9&successColor=00BFFF"/>
+</p>
+WordPress     <img src="https://geps.dev/progress/70?dangerColor=0369a1&warningColor=0ea5e9&successColor=00BFFF"/>
+</p>
+Figma         <img src="https://geps.dev/progress/90?dangerColor=0369a1&warningColor=0ea5e9&successColor=00BFFF"/>
+</p>
+Flutter       <img src="https://geps.dev/progress/40?dangerColor=0369a1&warningColor=0ea5e9&successColor=00BFFF"/>
+</p>
+Dart          <img src="https://geps.dev/progress/100?dangerColor=0369a1&warningColor=0ea5e9&successColor=00BFFF"/>
+</p>
+English       <img src="https://geps.dev/progress/80?dangerColor=0369a1&warningColor=0ea5e9&successColor=00BFFF"/>
+</p>
+```
+
 ---
 
 # 🛠 Tech Arsenal
