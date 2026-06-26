@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/GoldenTitab/GoldenTitab/blob/main/assets/wave-header.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100%" />
 
 # ⚡ Ali D. Shah
 
