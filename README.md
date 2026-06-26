@@ -12,18 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=GoldenTitab&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
 </p>
 
-<p align="center">
-  <a href="https://t.me/Golden_Titab">
-    <img src="https://img.shields.io/badge/Telegram-0ea5e9?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
-  <a href="https://instagram.com/GoldenTitab.exe">
-    <img src="https://img.shields.io/badge/Instagram-0284c7?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://x.com/GoldenTitabExe">
-    <img src="https://img.shields.io/badge/X-0369a1?style=for-the-badge&logo=x&logoColor=white">
-  </a>
-</p>
-
 </div>
 
 ---
