@@ -1,7 +1,8 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%" />
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="25%" />
+</p>
 # ⚡ Ali D. Shah
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Computer+Engineering+Student;UI%2FUX+Designer+in+Progress;Building+Digital+Experiences;Learning+Product+Design;Front-End+Learner;IOS/ANDROID+Application+Developer;Always+Improving" />
