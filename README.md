@@ -1,7 +1,9 @@
 <div align="center">
 
 
-  <img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif"/>
+<p align="center">
+  <img src="https://camo.githubusercontent.com/d33a2619953c93a3ac8dbc89b7316997c265ef4d42e552adcf73bd62be49b1d5/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f666c6167732f68642f6972616e706172726f742e676966" width="25%/>
+</p>
 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Computer+Engineering+Student;UI%2FUX+Designer+in+Progress;Building+Digital+Experiences;Learning+Product+Design;Front-End+Learner;IOS/ANDROID+Application+Developer;Always+Improving" />
