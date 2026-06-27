@@ -2,6 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0369a1&height=200&section=header&text=Ali%20D.%20Shah&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=UI%2FUX%20Designer%20%E2%80%A2%20Front-End%20Developer%20%E2%80%A2%20Product%20Thinker&descSize=16&descAlignY=60&animation=twinkling" width="100%"/>
 
+
 <p align="center">
   <img src="https://camo.githubusercontent.com/26958772a177631f2ba759431279f2ccb173c29f93f358adcb1d44059d193673/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" width="25%/>
 </p>
