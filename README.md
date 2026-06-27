@@ -1,7 +1,5 @@
-<!-- HEADER -->
 <div align="center">
 
-<!-- Animated banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0369a1&height=200&section=header&text=Ali%20D.%20Shah&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=UI%2FUX%20Designer%20%E2%80%A2%20Front-End%20Developer%20%E2%80%A2%20Product%20Thinker&descSize=16&descAlignY=60&animation=twinkling" width="100%"/>
 
 <p align="center">
@@ -17,9 +15,8 @@
 
 </div>
 
----
 
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg>  # 🌊 Digital Identity
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg> Digital Identity
 
 ```yaml
 Name: Ali D. Shah
@@ -43,7 +40,6 @@ Current Goal:
   and build meaningful digital experiences
 ```
 
----
 
 # 🚀 About Me
 
@@ -63,7 +59,6 @@ Currently I'm focusing on:
 * Design Systems
 
 
----
 
 # 🎯 Current Dashboard
 
@@ -108,7 +103,7 @@ Currently I'm focusing on:
 | English    | ![80%](https://geps.dev/progress/80?dangerColor=0369a1&warningColor=0ea5e9&successColor=00BFFF)                                  |
 
 
----
+
 
 # 🛠 Tech Arsenal
 
@@ -118,7 +113,7 @@ Currently I'm focusing on:
 
 </div>
 
----
+
 
 # 🎨 Design Toolkit
 
@@ -148,7 +143,7 @@ Currently I'm focusing on:
 * Java
 * Python
 
----
+
 
 # 🚧 Featured Projects
 
@@ -163,7 +158,7 @@ Modern responsive landing page for a vehicle marketplace platform.
 * CTA Sections
 * Pricing Components
 
----
+
 
 ## ₿ Crypto Landing Page
 
@@ -176,7 +171,7 @@ Landing page concept for a cryptocurrency platform.
 * Modern Dashboard UI
 * Responsive Design
 
----
+
 
 ## 👨‍💻 Personal Portfolio
 
@@ -189,7 +184,7 @@ A portfolio website focused on clean design and user experience.
 * About Section
 * Contact Page
 
----
+
 
 ## 🎨 UI/UX Case Studies
 
@@ -200,7 +195,7 @@ Future collection of:
 * Product Analysis
 * Design Challenges
 
----
+
 
 # 🏆 GitHub Trophies
 
@@ -210,7 +205,7 @@ Future collection of:
 
 </div>
 
----
+
 
 # 🔥 GitHub Stats
 
@@ -230,7 +225,7 @@ Future collection of:
 
 </div>
 
----
+
 
 # 📊 Activity Graph
 
@@ -240,7 +235,7 @@ Future collection of:
 
 </div>
 
----
+
 
 # 🐍 Contribution Snake
 
@@ -250,7 +245,7 @@ Future collection of:
 
 </div>
 
----
+
 
 # 🎬 Beyond Coding
 
@@ -271,7 +266,7 @@ Scott Pilgrim vs. The World
 * Learning New Skills
 * Building Side Projects
 
----
+
 
 # 💎 Fun Facts
 
@@ -283,7 +278,7 @@ Scott Pilgrim vs. The World
 * 🚀 Future Product Designer
 * ☕ Coffee Helps Sometimes
 
----
+
 
 # 🎨 Design Philosophy
 
@@ -295,7 +290,7 @@ Scott Pilgrim vs. The World
 >
 > It is the presence of clarity.
 
----
+
 
 # 🧠 Learning Journey
 
@@ -322,7 +317,7 @@ Scott Pilgrim vs. The World
 * Professional Product Designer
 * Digital Product Creator
 
----
+
 
 # 🎯 Mission Board
 
@@ -345,7 +340,7 @@ Scott Pilgrim vs. The World
 * [ ] Become A Product Designer
 * [ ] Launch Freelance Career
 
----
+
 
 # 🌐 Connect Hub
 
@@ -365,7 +360,7 @@ Scott Pilgrim vs. The World
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -375,7 +370,6 @@ Scott Pilgrim vs. The World
 
 ### See you in the next commit 🚀
 
-<!-- FOOTER -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0369a1,100:0ea5e9&height=120&section=footer&text=Building+Today%2C+Improving+Tomorrow&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%"/>
