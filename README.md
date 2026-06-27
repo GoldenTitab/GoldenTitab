@@ -414,17 +414,6 @@ Simplicity is not the absence of features — it is the presence of clarity.
 </div>
 
 
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/></svg> Connect
-
-<div align="center">
-
-<a href="https://t.me/Golden_Titab"><img src="https://img.shields.io/badge/Telegram-0ea5e9?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://instagram.com/GoldenTitab.exe"><img src="https://img.shields.io/badge/Instagram-0284c7?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://x.com/GoldenTitabExe"><img src="https://img.shields.io/badge/X-0369a1?style=for-the-badge&logo=x&logoColor=white"/></a>
-
-</div>
-
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0369a1,100:0ea5e9&height=120&section=footer&text=Building+Today%2C+Improving+Tomorrow&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%"/>
