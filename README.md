@@ -97,7 +97,7 @@ class AliDShah {
 
 <div align="center">
 
-[![Aurora Music Player](https://github-readme-stats.vercel.app/api/pin/?username=GoldenTitab&repo=First-App&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&border_radius=12)](https://github.com/GoldenTitab/First-App)
+[![Aurora Music Player](./profile/pin-aurora.svg)](https://github.com/GoldenTitab/First-App)
 
 </div>
 
@@ -119,12 +119,12 @@ class AliDShah {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GoldenTitab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&rank_icon=github&border_radius=12" />
-<img width="49%" src="https://streak-stats.demolab.com?user=GoldenTitab&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&border_radius=12" />
+<img width="49%" src="./profile/stats.svg" />
+<img width="49%" src="./profile/streak.svg" />
 
 <br/><br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoldenTitab&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&langs_count=6&border_radius=12"/>
+<img width="42%" src="./profile/top-langs.svg"/>
 
 </div>
 
