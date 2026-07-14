@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&multiline=false&width=750&lines=👋+Hey%2C+I'm+Ali+D.+Shah;🎨+Designing+interfaces+that+feel+right;📱+Building+Aurora+Music+Player;💡+Turning+ideas+into+real+products;🌙+Kerman%2C+Iran+%E2%80%94+dreaming+big" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&multiline=false&width=750&lines=👋+Hey%2C+I'm+Ali+D.+Shah;🎨+Designing+interfaces+that+feel+right;📱+Building+Aurora+Music+Player;💡+Turning+ideas+into+real+products;🌙+Kerman%2C+Iran+—+dreaming+big" />
 
 </div>
 
@@ -45,8 +45,8 @@ class AliDShah {
   ];
 
   final Map<String, String> funFacts = {
-    "🎬 Fav Movie"  : "Scott Pilgrim vs. The World",
-    "📺 Fav Series" : "One Piece · The Office",
+    "🎬 Fav Movie"   : "Scott Pilgrim vs. The World",
+    "📺 Fav Series"  : "One Piece · The Office",
     "🎵 Side Project": "Aurora Music Player",
   };
 
@@ -97,7 +97,7 @@ class AliDShah {
 
 <div align="center">
 
-[![Aurora Music Player](./profile/pin-aurora.svg)](https://github.com/GoldenTitab/First-App)
+<img src="./profile/pin-aurora.svg" alt="Aurora Music Player"/>
 
 </div>
 
@@ -119,32 +119,12 @@ class AliDShah {
 
 <div align="center">
 
-<img width="49%" src="./profile/stats.svg" />
-<img width="49%" src="./profile/streak.svg" />
+<img width="49%" src="./profile/stats.svg" alt="GitHub Stats"/>
+<img width="49%" src="./profile/streak.svg" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img width="42%" src="./profile/top-langs.svg"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=GoldenTitab&theme=tokyonight&no-frame=true&column=4&margin-w=12&margin-h=12&no-bg=true)](https://github.com/GoldenTitab)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GoldenTitab&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=7C3AED&point=00D9FF&area=true&area_color=00D9FF)](https://github.com/GoldenTitab)
+<img width="42%" src="./profile/top-langs.svg" alt="Top Languages"/>
 
 </div>
 
@@ -203,6 +183,18 @@ Design Basics  WordPress      TypeScript      Digital Creator
 | 🔵 | *"Good interfaces are invisible."* |
 | 🔵 | *"The best products guide people naturally."* |
 | 🔵 | *"Simplicity is not the absence of features — it is the presence of clarity."* |
+
+</div>
+
+---
+
+## 🎬 Beyond Coding
+
+<div align="center">
+
+| 🎬 Favorite Movie | 📺 Favorite Series | 🎯 Favorite Activities |
+|:---:|:---:|:---:|
+| Scott Pilgrim vs. The World | One Piece · The Office | UI Exploration · Movies · Music · Side Projects |
 
 </div>
 
