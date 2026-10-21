@@ -1,32 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Ali%20D.%20Shah&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Flutter%20Dev%20%7C%20UI%2FUX%20Designer%20%7C%20Product%20Thinker&descSize=18&descAlignY=62&animation=fadeIn&stroke=302b63&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Ali%20D.%20Shah&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Flutter%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20CS%20Student&descSize=18&descAlignY=62&animation=fadeIn&stroke=302b63&strokeWidth=2" width="100%"/>
 
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&multiline=false&width=750&lines=👋+Hey%2C+I'm+Ali+D.+Shah;🎨+Designing+interfaces+that+feel+right;📱+Building+Aurora+Music+Player;💡+Turning+ideas+into+real+products;🌙+Kerman%2C+Iran+—+dreaming+big" />
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=700&size=24&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&multiline=false&width=750&lines=%F0%9F%91%8B%20Hey%2C%20I%27m%20Ali%20D.%20Shah%3B%F0%9F%93%B1%20Building%20Aurora%20%E2%80%94%20a%20Flutter%20anime%20tracker%3B%F0%9F%8E%A8%20Designing%20interfaces%20that%20feel%20right%3B%F0%9F%87%A9%F0%9F%87%AA%20Learning%20German%20%E2%80%94%20A0%20%E2%86%92%20C1%3B%F0%9F%92%A1%20Turning%20ideas%20into%20real%20products"/>
 
 <br/>
 
-<div align="center">
-
 [![Profile Views](https://komarev.com/ghpvc/?username=GoldenTitab&label=Profile+Views&color=0e75b6&style=for-the-badge)](https://github.com/GoldenTitab)
 &nbsp;
-[![Flutter](https://img.shields.io/badge/Flutter-Dev-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/GoldenTitab/First-App)
+[![Followers](https://img.shields.io/github/followers/GoldenTitab?style=for-the-badge&logo=github&label=Followers&color=24243e)](https://github.com/GoldenTitab?tab=followers)
 &nbsp;
-[![Figma](https://img.shields.io/badge/UI%2FUX-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/GoldenTitab)
+[![Total Stars](https://img.shields.io/github/stars/GoldenTitab?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=302b63)](https://github.com/GoldenTitab?tab=repositories)
 &nbsp;
 [![Location](https://img.shields.io/badge/Kerman-Iran%20🇮🇷-FF6B6B?style=for-the-badge)](https://github.com/GoldenTitab)
 
 </div>
 
 ---
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🧬 About Me
 
@@ -35,26 +25,25 @@ class AliDShah {
   final String name     = "Ali D. Shah";
   final String location = "Kerman, Iran 🇮🇷";
   final String role     = "CS Student · Flutter Dev · UI/UX Designer";
-  final String building = "Aurora Music Player — Flutter + Firebase";
+  final String building = "Aurora — anime tracker · Flutter · AniList API";
   final String goal     = "Become a Product Designer";
 
   final List<String> currentlyLearning = [
-    "Flutter Architecture (GoRouter, Clean Code)",
-    "Firebase Auth & Firestore",
+    "Flutter Architecture (Riverpod, Drift, Clean Architecture)",
+    "GraphQL & REST API Design",
+    "German — A0 → C1 🇩🇪",
     "Product Design Thinking",
   ];
 
   final Map<String, String> funFacts = {
     "🎬 Fav Movie"   : "Scott Pilgrim vs. The World",
     "📺 Fav Series"  : "One Piece · The Office",
-    "🎵 Side Project": "Aurora Music Player",
+    "🎵 Side Project": "Aurora — track everything you watch",
   };
 
   String get motto => "Good design is not what it looks like — it's how it works.";
 }
 ```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
@@ -63,68 +52,54 @@ class AliDShah {
 <div align="center">
 
 ### Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=dart,flutter,html,css,js&theme=dark&perline=5"/>
+<img src="https://skillicons.dev/icons?i=dart,flutter,js,python,java,c,html,css&theme=dark&perline=8"/>
 
-### Tools & Design
-<img src="https://skillicons.dev/icons?i=figma,git,github,wordpress,vscode&theme=dark&perline=5"/>
-
-### Also Know
-<img src="https://skillicons.dev/icons?i=python,java,c&theme=dark&perline=5"/>
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode,androidstudio,wordpress,graphql,sqlite,appwrite&theme=dark&perline=9"/>
 
 </div>
 
 ---
 
-## 📊 Skill Levels
+## 📊 GitHub Stats — always live
 
 <div align="center">
 
-| Skill | Level | Progress |
-|:------|:-----:|:--------:|
-| 🎨 Figma / UI Design | Expert | `████████████████████` 90% |
-| 🌐 HTML | Expert | `████████████████████` 100% |
-| 🎨 CSS | Advanced | `████████████████░░░░` 80% |
-| 📝 WordPress | Advanced | `█████████████████░░░` 85% |
-| 💬 English | Intermediate | `██████████████░░░░░░` 70% |
-| ⚡ JavaScript | Beginner | `██████░░░░░░░░░░░░░░` 30% |
-| 📱 Flutter / Dart | Learning | `████░░░░░░░░░░░░░░░░` 20% |
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GoldenTitab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=43200" alt="GitHub Stats"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=GoldenTitab&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&cache_seconds=43200" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoldenTitab&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&cache_seconds=43200" alt="Top Languages"/>
+
+<br/><br/>
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GoldenTitab&theme=tokyonight" alt="Contribution Graph & Profile Details"/>
 
 </div>
+
+> ⚡ These cards are rendered live from my GitHub data — every commit, new repo, or new language updates them automatically.
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 <div align="center">
 
-<img src="./profile/pin-aurora.svg" alt="Aurora Music Player"/>
+<a href="https://github.com/GoldenTitab/Aurora"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=GoldenTitab&repo=Aurora&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&cache_seconds=43200" alt="Aurora"/></a>
+<a href="https://github.com/GoldenTitab/Deutsch-Pronunciation"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=GoldenTitab&repo=Deutsch-Pronunciation&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&cache_seconds=43200" alt="Deutsch Pronunciation"/></a>
 
 </div>
 
-> 🎵 **Aurora** — A Flutter music player with Firebase Auth, GoRouter, clean architecture, Persian RTL UI, and full light/dark theme support.
+> 📺 **Aurora** — A Flutter anime tracker powered by the AniList API: franchise tracking, per-series ratings & notes, gamification (XP, levels, missions, collectible character cards), and a full Persian + English UI.
 
 <div align="center">
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![GoRouter](https://img.shields.io/badge/GoRouter-Navigation-00D9FF?style=flat-square)
-![Equatable](https://img.shields.io/badge/Equatable-State-7C3AED?style=flat-square)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="./profile/stats.svg" alt="GitHub Stats"/>
-<img width="49%" src="./profile/streak.svg" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img width="42%" src="./profile/top-langs.svg" alt="Top Languages"/>
+![GraphQL](https://img.shields.io/badge/GraphQL-AniList-E10098?style=flat-square&logo=graphql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-Drift-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-State-00D9FF?style=flat-square)
 
 </div>
 
@@ -137,24 +112,24 @@ class AliDShah {
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GoldenTitab/GoldenTitab/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GoldenTitab/GoldenTitab/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/GoldenTitab/GoldenTitab/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/GoldenTitab/GoldenTitab/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
 
 ---
 
-## 🗺️ Learning Roadmap
+## 🗺️ Roadmap
 
 ```
 ◉ ──────────── ◉ ──────────── ◎ ──────────── ○
 │              │              │              │
-2025           2026          Next          Future
+Foundations    Now           Next          Future
 │              │              │              │
-HTML · CSS     JavaScript     Product Design  Product Designer
-Design Basics  WordPress      TypeScript      Digital Creator
-               UI/UX Design   Flutter ◄ HERE  Freelance Career
-               Firebase · Dart
+HTML · CSS     Flutter/Dart   Product       Product
+UI Design      Clean Arch.    Design        Designer
+JavaScript     Shipping       TypeScript    Freelance
+WordPress      Aurora ◄ HERE                Creator
 ```
 
 ---
@@ -166,9 +141,9 @@ Design Basics  WordPress      TypeScript      Digital Creator
 | ⚡ Short Term | 🔥 Mid Term | 🌟 Long Term |
 |:---|:---|:---|
 | ✅ Start Flutter Dev | ✅ Build Aurora | ☐ Work on Meaningful Products |
-| ☐ Publish Portfolio | ☐ Master Architecture | ☐ Become a Product Designer |
-| ☐ Create UI Case Studies | ☐ Learn Product Design | ☐ Launch Freelance Career |
-| ☐ Improve English | ☐ Build Personal Brand | ☐ Work Internationally |
+| ☐ Publish Portfolio | ✅ Ship Aurora v1 | ☐ Become a Product Designer |
+| ☐ Create UI Case Studies | ☐ Master Clean Architecture | ☐ Launch Freelance Career |
+| ☐ German A1 → B1 🇩🇪 | ☐ Build Personal Brand | ☐ Work Internationally |
 
 </div>
 
@@ -193,20 +168,20 @@ Design Basics  WordPress      TypeScript      Digital Creator
 <div align="center">
 
 | 🎬 Favorite Movie | 📺 Favorite Series | 🎯 Favorite Activities |
-|:---:|:---:|:---:|
+|:---:|:---:|:---|
 | Scott Pilgrim vs. The World | One Piece · The Office | UI Exploration · Movies · Music · Side Projects |
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <div align="center">
 
 ### 📬 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-GoldenTitab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GoldenTitab)
+&nbsp;
+[![Website](https://img.shields.io/badge/Website-goldentitab.github.io-0D1117?style=for-the-badge&logo=githubpages&logoColor=white)](https://goldentitab.github.io)
 
 <br/>
 
