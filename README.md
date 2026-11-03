@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Ali%20D.%20Shah&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Flutter%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20CS%20Student&descSize=18&descAlignY=62&animation=fadeIn&stroke=302b63&strokeWidth=2" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=700&size=24&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&multiline=false&width=750&lines=%F0%9F%91%8B%20Hey%2C%20I%27m%20Ali%20D.%20Shah%3B%F0%9F%93%B1%20Building%20Aurora%20%E2%80%94%20a%20Flutter%20anime%20tracker%3B%F0%9F%8E%A8%20Designing%20interfaces%20that%20feel%20right%3B%F0%9F%87%A9%F0%9F%87%AA%20Learning%20German%20%E2%80%94%20A0%20%E2%86%92%20C1%3B%F0%9F%92%A1%20Turning%20ideas%20into%20real%20products"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=700&size=24&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&multiline=false&width=750&lines=Hey%2C%20I%27m%20Ali%20D.%20Shah%3BBuilding%20Aurora%20%E2%80%94%20a%20Flutter%20anime%20tracker%3BDesigning%20interfaces%20that%20feel%20right%3BLearning%20German%20%E2%80%94%20A0%20%E2%86%92%20C1%3BTurning%20ideas%20into%20real%20products"/>
 
 <br/>
 
@@ -12,18 +12,18 @@
 &nbsp;
 [![Total Stars](https://img.shields.io/github/stars/GoldenTitab?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=302b63)](https://github.com/GoldenTitab?tab=repositories)
 &nbsp;
-[![Location](https://img.shields.io/badge/Kerman-Iran%20🇮🇷-FF6B6B?style=for-the-badge)](https://github.com/GoldenTitab)
+[![Location](https://img.shields.io/badge/Kerman-Iran-FF6B6B?style=for-the-badge)](https://github.com/GoldenTitab)
 
 </div>
 
 ---
 
-## 🧬 About Me
+## <img src="icons/about.svg" width="24" height="24" alt=""> About Me
 
 ```dart
 class AliDShah {
   final String name     = "Ali D. Shah";
-  final String location = "Kerman, Iran 🇮🇷";
+  final String location = "Kerman, Iran";
   final String role     = "CS Student · Flutter Dev · UI/UX Designer";
   final String building = "Aurora — anime tracker · Flutter · AniList API";
   final String goal     = "Become a Product Designer";
@@ -31,14 +31,14 @@ class AliDShah {
   final List<String> currentlyLearning = [
     "Flutter Architecture (Riverpod, Drift, Clean Architecture)",
     "GraphQL & REST API Design",
-    "German — A0 → C1 🇩🇪",
+    "German — A0 → C1",
     "Product Design Thinking",
   ];
 
   final Map<String, String> funFacts = {
-    "🎬 Fav Movie"   : "Scott Pilgrim vs. The World",
-    "📺 Fav Series"  : "One Piece · The Office",
-    "🎵 Side Project": "Aurora — track everything you watch",
+    "Fav Movie"   : "Scott Pilgrim vs. The World",
+    "Fav Series"  : "One Piece · The Office",
+    "Side Project": "Aurora — track everything you watch",
   };
 
   String get motto => "Good design is not what it looks like — it's how it works.";
@@ -47,7 +47,7 @@ class AliDShah {
 
 ---
 
-## 🛠️ Tech Arsenal
+## <img src="icons/tools.svg" width="24" height="24" alt=""> Tech Arsenal
 
 <div align="center">
 
@@ -61,7 +61,7 @@ class AliDShah {
 
 ---
 
-## 📊 GitHub Stats — always live
+## <img src="icons/stats.svg" width="24" height="24" alt=""> GitHub Stats — always live
 
 <div align="center">
 
@@ -78,11 +78,11 @@ class AliDShah {
 
 </div>
 
-> ⚡ These cards are rendered live from my GitHub data — every commit, new repo, or new language updates them automatically.
+> These cards are rendered live from my GitHub data — every commit, new repo, or new language updates them automatically.
 
 ---
 
-## 🚀 Featured Projects
+## <img src="icons/projects.svg" width="24" height="24" alt=""> Featured Projects
 
 <div align="center">
 
@@ -91,7 +91,7 @@ class AliDShah {
 
 </div>
 
-> 📺 **Aurora** — A Flutter anime tracker powered by the AniList API: franchise tracking, per-series ratings & notes, gamification (XP, levels, missions, collectible character cards), and a full Persian + English UI.
+> **Aurora** — A Flutter anime tracker powered by the AniList API: franchise tracking, per-series ratings & notes, gamification (XP, levels, missions, collectible character cards), and a full Persian + English UI.
 
 <div align="center">
 
@@ -105,7 +105,7 @@ class AliDShah {
 
 ---
 
-## 🐍 Contribution Snake
+## <img src="icons/snake.svg" width="24" height="24" alt=""> Contribution Snake
 
 <div align="center">
 
@@ -119,7 +119,7 @@ class AliDShah {
 
 ---
 
-## 🗺️ Roadmap
+## <img src="icons/roadmap.svg" width="24" height="24" alt=""> Roadmap
 
 ```
 ◉ ──────────── ◉ ──────────── ◎ ──────────── ○
@@ -134,40 +134,40 @@ WordPress      Aurora ◄ HERE                Creator
 
 ---
 
-## 🎯 Mission Board
+## <img src="icons/mission.svg" width="24" height="24" alt=""> Mission Board
 
 <div align="center">
 
-| ⚡ Short Term | 🔥 Mid Term | 🌟 Long Term |
+| Short Term | Mid Term | Long Term |
 |:---|:---|:---|
-| ✅ Start Flutter Dev | ✅ Build Aurora | ☐ Work on Meaningful Products |
-| ☐ Publish Portfolio | ✅ Ship Aurora v1 | ☐ Become a Product Designer |
+| ✓ Start Flutter Dev | ✓ Build Aurora | ☐ Work on Meaningful Products |
+| ☐ Publish Portfolio | ✓ Ship Aurora v1 | ☐ Become a Product Designer |
 | ☐ Create UI Case Studies | ☐ Master Clean Architecture | ☐ Launch Freelance Career |
-| ☐ German A1 → B1 🇩🇪 | ☐ Build Personal Brand | ☐ Work Internationally |
+| ☐ German A1 → B1 | ☐ Build Personal Brand | ☐ Work Internationally |
 
 </div>
 
 ---
 
-## 💡 Design Philosophy
+## <img src="icons/philosophy.svg" width="24" height="24" alt=""> Design Philosophy
 
 <div align="center">
 
 | | |
 |:---:|:---|
-| 🔵 | *"Good interfaces are invisible."* |
-| 🔵 | *"The best products guide people naturally."* |
-| 🔵 | *"Simplicity is not the absence of features — it is the presence of clarity."* |
+| • | *"Good interfaces are invisible."* |
+| • | *"The best products guide people naturally."* |
+| • | *"Simplicity is not the absence of features — it is the presence of clarity."* |
 
 </div>
 
 ---
 
-## 🎬 Beyond Coding
+## <img src="icons/beyond.svg" width="24" height="24" alt=""> Beyond Coding
 
 <div align="center">
 
-| 🎬 Favorite Movie | 📺 Favorite Series | 🎯 Favorite Activities |
+| Favorite Movie | Favorite Series | Favorite Activities |
 |:---:|:---:|:---|
 | Scott Pilgrim vs. The World | One Piece · The Office | UI Exploration · Movies · Music · Side Projects |
 
@@ -177,7 +177,7 @@ WordPress      Aurora ◄ HERE                Creator
 
 <div align="center">
 
-### 📬 Let's Connect
+### <img src="icons/connect.svg" width="24" height="24" alt=""> Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-GoldenTitab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GoldenTitab)
 &nbsp;
