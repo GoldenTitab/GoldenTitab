@@ -182,6 +182,8 @@ WordPress      Aurora ◄ HERE                Creator
 [![GitHub](https://img.shields.io/badge/GitHub-GoldenTitab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GoldenTitab)
 &nbsp;
 [![Website](https://img.shields.io/badge/Website-goldentitab.github.io-0D1117?style=for-the-badge&logo=githubpages&logoColor=white)](https://goldentitab.github.io)
+&nbsp;
+[![Telegram](https://img.shields.io/badge/Telegram-Aurora_Studio-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AuroraUXUI_Studio)
 
 <br/>
 
