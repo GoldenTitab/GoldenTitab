@@ -119,11 +119,13 @@ class AliDShah {
 
 ---
 
-## <img src="icons/koi.svg" width="24" height="24" alt=""> My Koi
+## <img src="icons/koi.svg" width="24" height="24" alt=""> My Koi Pond
 
 <div align="center">
 
-<img src="koi/koi.gif" width="256" alt="My koi" />
+<a href="https://goldentitab.github.io/koi/">
+  <img src="https://raw.githubusercontent.com/GoldenTitab/goldentitab.github.io/main/koi/pond.svg" width="100%" alt="My koi pond — a koi swimming over a year of my GitHub contributions. Click to open the interactive pond." />
+</a>
 
 </div>
 
