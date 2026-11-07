@@ -119,6 +119,16 @@ class AliDShah {
 
 ---
 
+## <img src="icons/koi.svg" width="24" height="24" alt=""> My Koi
+
+<div align="center">
+
+<img src="koi/koi.gif" width="256" alt="My koi" />
+
+</div>
+
+---
+
 ## <img src="icons/roadmap.svg" width="24" height="24" alt=""> Roadmap
 
 ```
