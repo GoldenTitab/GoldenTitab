@@ -124,7 +124,10 @@ class AliDShah {
 <div align="center">
 
 <a href="https://goldentitab.github.io/koi/">
-  <img src="https://raw.githubusercontent.com/GoldenTitab/goldentitab.github.io/main/koi/pond.svg" width="100%" alt="My koi pond — a koi swimming over a year of my GitHub contributions. Click to open the interactive pond." />
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/GoldenTitab/goldentitab.github.io/main/koi/pond-still.svg">
+    <img src="https://raw.githubusercontent.com/GoldenTitab/goldentitab.github.io/main/koi/pond.svg" width="100%" alt="My koi pond — a koi swimming over a year of my GitHub contributions. Click to open the interactive pond." />
+  </picture>
 </a>
 
 </div>
