@@ -35,12 +35,6 @@ class AliDShah {
     "Product Design Thinking",
   ];
 
-  final Map<String, String> funFacts = {
-    "Fav Movie"   : "Scott Pilgrim vs. The World",
-    "Fav Series"  : "One Piece · The Office",
-    "Side Project": "Aurora — track everything you watch",
-  };
-
   String get motto => "Good design is not what it looks like — it's how it works.";
 }
 ```
@@ -61,24 +55,14 @@ class AliDShah {
 
 ---
 
-## <img src="icons/stats.svg" width="24" height="24" alt=""> GitHub Stats — always live
+## <img src="icons/stats.svg" width="24" height="24" alt=""> GitHub Stats
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GoldenTitab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=43200" alt="GitHub Stats"/>
 <img width="49%" src="https://streak-stats.demolab.com/?user=GoldenTitab&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&cache_seconds=43200" alt="GitHub Streak"/>
 
-<br/><br/>
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoldenTitab&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&cache_seconds=43200" alt="Top Languages"/>
-
-<br/><br/>
-
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GoldenTitab&theme=tokyonight" alt="Contribution Graph & Profile Details"/>
-
 </div>
-
-> These cards are rendered live from my GitHub data — every commit, new repo, or new language updates them automatically.
 
 ---
 
@@ -105,20 +89,6 @@ class AliDShah {
 
 ---
 
-## <img src="icons/snake.svg" width="24" height="24" alt=""> Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GoldenTitab/GoldenTitab/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GoldenTitab/GoldenTitab/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/GoldenTitab/GoldenTitab/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
-
----
-
 ## <img src="icons/koi.svg" width="24" height="24" alt=""> My Koi Pond
 
 <div align="center">
@@ -129,62 +99,6 @@ class AliDShah {
     <img src="https://raw.githubusercontent.com/GoldenTitab/goldentitab.github.io/main/koi/pond.svg" width="100%" alt="My koi pond — a koi swimming over a year of my GitHub contributions. Click to open the interactive pond." />
   </picture>
 </a>
-
-</div>
-
----
-
-## <img src="icons/roadmap.svg" width="24" height="24" alt=""> Roadmap
-
-```
-◉ ──────────── ◉ ──────────── ◎ ──────────── ○
-│              │              │              │
-Foundations    Now           Next          Future
-│              │              │              │
-HTML · CSS     Flutter/Dart   Product       Product
-UI Design      Clean Arch.    Design        Designer
-JavaScript     Shipping       TypeScript    Freelance
-WordPress      Aurora ◄ HERE                Creator
-```
-
----
-
-## <img src="icons/mission.svg" width="24" height="24" alt=""> Mission Board
-
-<div align="center">
-
-| Short Term | Mid Term | Long Term |
-|:---|:---|:---|
-| ✓ Start Flutter Dev | ✓ Build Aurora | ☐ Work on Meaningful Products |
-| ☐ Publish Portfolio | ✓ Ship Aurora v1 | ☐ Become a Product Designer |
-| ☐ Create UI Case Studies | ☐ Master Clean Architecture | ☐ Launch Freelance Career |
-| ☐ German A1 → B1 | ☐ Build Personal Brand | ☐ Work Internationally |
-
-</div>
-
----
-
-## <img src="icons/philosophy.svg" width="24" height="24" alt=""> Design Philosophy
-
-<div align="center">
-
-| | |
-|:---:|:---|
-| • | *"Good interfaces are invisible."* |
-| • | *"The best products guide people naturally."* |
-| • | *"Simplicity is not the absence of features — it is the presence of clarity."* |
-
-</div>
-
----
-
-## <img src="icons/beyond.svg" width="24" height="24" alt=""> Beyond Coding
-
-<div align="center">
-
-| Favorite Movie | Favorite Series | Favorite Activities |
-|:---:|:---:|:---|
-| Scott Pilgrim vs. The World | One Piece · The Office | UI Exploration · Movies · Music · Side Projects |
 
 </div>
 
