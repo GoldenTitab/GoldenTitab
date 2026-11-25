@@ -198,6 +198,8 @@ WordPress      Aurora ◄ HERE                Creator
 &nbsp;
 [![Website](https://img.shields.io/badge/Website-goldentitab.github.io-0D1117?style=for-the-badge&logo=githubpages&logoColor=white)](https://goldentitab.github.io)
 &nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20D.%20Shah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-d-shah-910263452/)
+&nbsp;
 [![Telegram](https://img.shields.io/badge/Telegram-Aurora_Studio-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AuroraUXUI_Studio)
 
 <br/>
